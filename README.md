@@ -3,11 +3,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Student Developer
 
-I am currently a student Developer who like to do a lot of projects, like front and back-end but also mobile app.
+I am currently a student Developer who like to do a lot of projects, like front and back-end but also mobile apps.
 * 🌍  I'm based in Lannion
 * 🖥️  See my portfolio at [this link](https://benjaminconseil.000webhostapp.com/)
 * ✉️  You can contact me at [conseil.benjamin55@gmail.com](mailto:conseil.benjamin55@gmail.com)
-* 🧠  I'm learning React and MongoDB
+* 🧠  I'm learning React and MongoDB at this moment
 * 🚀  I'm currently working on a Hangman Game web app
 * 🤝  I'm open to collaborating on Interesting projects
 
