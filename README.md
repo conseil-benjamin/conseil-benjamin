@@ -3,6 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Student Developer
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 I am currently a student Developer who like to do a lot of projects, like front and back-end but also mobile apps.
 * 🌍  I'm based in Lannion
 * 🖥️  See my portfolio at [this link](https://benjaminconseil.000webhostapp.com/)
@@ -23,4 +25,6 @@ I am currently a student Developer who like to do a lot of projects, like front 
 
 ### Badges
 
-<a href="https://github.com/conseil-benjamin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=conseil-benjamin&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/conseil-benjamin"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=conseil-benjamin&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<a href="http://www.github.com/conseil-benjamin"><img align="right" src="https://github-readme-stats.vercel.app/api?username=conseil-benjamin&show_icons=true&hide=prs,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="conseil-benjamin's GitHub stats" /></a>
