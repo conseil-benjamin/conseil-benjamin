@@ -5,7 +5,7 @@ Student Developer
 
 I am currently a student Developer who like to do a lot of projects, like front and back-end but also mobile app.
 * 🌍  I'm based in Lannion
-* 🖥️  See my portfolio at [this link](http://https://benjaminconseil.000webhostapp.com/)
+* 🖥️  See my portfolio at [this link](https://benjaminconseil.000webhostapp.com/)
 * ✉️  You can contact me at [conseil.benjamin55@gmail.com](mailto:conseil.benjamin55@gmail.com)
 * 🧠  I'm learning React and MongoDB
 * 🚀  I'm currently working on a Hangman Game web app
