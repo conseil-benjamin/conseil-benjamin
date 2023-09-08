@@ -1,5 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Benjamin Conseil 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Benjamin Conseil
+========================================================================================================================================
+
 Student Developer
+
 I am currently a student Developer who like to do a lot of projects, like front and back-end but also mobile app.
 * 🌍  I'm based in Lannion
 * 🖥️  See my portfolio at [this link](http://https://benjaminconseil.000webhostapp.com/)
