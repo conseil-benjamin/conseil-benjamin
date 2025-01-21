@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on real time multiplayer quizz game<br>👯 I’m looking to collaborate on interesting projects<br>💬 I'm based in Lannion<br>
+🔭 I'm currently working on a dream journal application. <br>👯 I’m looking to collaborate on interesting projects<br>💬 I'm based in Lannion<br>
 
 
 ## 🌐 Socials:
