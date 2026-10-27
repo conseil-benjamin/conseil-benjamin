@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on a dream journal application. <br>👯 I’m looking to collaborate on interesting projects<br>💬 I'm based in Lannion<br>
+🔭 I'm currently working on [Koari](https://koari.fr), a real-time multiplayer quiz game <br>👯 I’m looking to collaborate on interesting projects<br>💬 I'm based in Rennes<br>
 
 
 ## 🌐 Socials:
